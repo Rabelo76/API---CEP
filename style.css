@@ -1,0 +1,12 @@
+input {
+    height: 10px;
+    width: 100px;
+}
+
+label {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 10px 300px 0px 300px;
+}
